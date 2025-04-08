@@ -1,0 +1,35 @@
+body {
+    background-color: #048ABF;
+    color: white;
+}
+
+header, footer {
+    background-color: #032CA6;
+    padding: 30px;
+    text-align: center;
+    border: 5px solid #011526;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+main p {
+    border: 5px solid #011526;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+img {
+    height: 200px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    background-color: #011526;
+    padding: 7px;
+    margin: 5px;
+    border-radius: 50px;
+}
